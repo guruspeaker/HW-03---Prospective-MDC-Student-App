@@ -1,4 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">HW-03---Prospective-MDC-Student-App</string>
+  <string name="app_name">MDC Student Welcome App</string>
+  <string-array name="campus_array">
+    <item>Select Your Campus</item>
+    <item>Wolfson</item>
+    <item>Inter-American</item>
+    <item>Kendall</item>
+    <item>Homestead</item>
+    <item>West</item>
+    <item>Hialeah</item>
+    <item>North</item>
+  </string-array>
+  <string-array name="campus_phones">
+    <item>NO PHONE</item>
+    <item>3052373000</item>
+    <item>3052376000</item>
+    <item>3052372000</item>
+    <item>3052375000</item>
+    <item>3052378000</item>
+    <item>3052378700</item>
+    <item>3052371000</item>
+  </string-array>
+  <string-array name="campus_directions">
+    <item>Select Your Campus</item>
+    <item>https://goo.gl/maps/PLFinsPhj7E2</item>
+    <item>https://goo.gl/maps/gMaFEi25UKp</item>
+    <item>https://goo.gl/maps/NAsE5UT2XaS2</item>
+    <item>https://goo.gl/maps/7z9vsP4XjyL2</item>
+    <item>https://goo.gl/maps/deX6ucMsoXG2</item>
+    <item>https://goo.gl/maps/1CWSZAvGFBy</item>
+    <item>https://goo.gl/maps/V3G5WbYCHUC2</item>
+  </string-array>
 </resources>
